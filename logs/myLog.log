@@ -1,0 +1,27 @@
+[INFO ] 2024-06-05 10:38:25,567 org.testng.internal.Utils:112 - [TestNG] Running:
+  C:\Users\jyothi.dunaboyina\Documents\workspace-spring-tool-suite-4-4.19.1.RELEASE\restassuresapitesting\testng.xml
+
+[INFO ] 2024-06-05 10:38:25,603 com.restassured.base.Base:40 - Report Setup in each Test
+[INFO ] 2024-06-05 10:38:29,619 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:31,740 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:33,239 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:34,516 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:35,845 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:37,146 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:37,422 com.restassured.base.Base:40 - Report Setup in each Test
+[INFO ] 2024-06-05 10:38:37,606 org.eclipse.jetty.util.log:170 - Logging initialized @13293ms to org.eclipse.jetty.util.log.Slf4jLog
+[INFO ] 2024-06-05 10:38:37,733 org.eclipse.jetty.server.Server:375 - jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 17.0.7+7
+[INFO ] 2024-06-05 10:38:37,751 org.eclipse.jetty.server.handler.ContextHandler:915 - Started o.e.j.s.ServletContextHandler@7d8802cf{/__admin,null,AVAILABLE}
+[INFO ] 2024-06-05 10:38:37,760 org.eclipse.jetty.server.handler.ContextHandler.ROOT:2347 - RequestHandlerClass from context returned com.github.tomakehurst.wiremock.http.StubRequestHandler. Normalized mapped under returned 'null'
+[INFO ] 2024-06-05 10:38:37,761 org.eclipse.jetty.server.handler.ContextHandler:915 - Started o.e.j.s.ServletContextHandler@3c22a99a{/,null,AVAILABLE}
+[INFO ] 2024-06-05 10:38:37,784 org.eclipse.jetty.server.AbstractConnector:331 - Started NetworkTrafficServerConnector@68c9cf93{HTTP/1.1, (http/1.1, h2c)}{0.0.0.0:8082}
+[INFO ] 2024-06-05 10:38:37,789 org.eclipse.jetty.server.Server:415 - Started @13478ms
+[INFO ] 2024-06-05 10:38:38,008 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:38,033 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:38,065 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:38,081 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:38,098 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:38,117 com.restassured.base.Base:82 - Report Result in each Test
+[INFO ] 2024-06-05 10:38:38,128 org.eclipse.jetty.server.AbstractConnector:381 - Stopped NetworkTrafficServerConnector@68c9cf93{HTTP/1.1, (http/1.1, h2c)}{0.0.0.0:8082}
+[INFO ] 2024-06-05 10:38:38,129 org.eclipse.jetty.server.handler.ContextHandler:1153 - Stopped o.e.j.s.ServletContextHandler@3c22a99a{/,null,STOPPED}
+[INFO ] 2024-06-05 10:38:38,129 org.eclipse.jetty.server.handler.ContextHandler:1153 - Stopped o.e.j.s.ServletContextHandler@7d8802cf{/__admin,null,STOPPED}
